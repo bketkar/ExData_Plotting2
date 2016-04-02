@@ -1,3 +1,4 @@
+######Ploted png files are in /plot folder.
 # ExData_Plotting2
 
 ##Assignment 
